@@ -1,0 +1,38 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f9fa;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+h2 {
+  color: #503808;
+}
+
+.table {
+  margin-top: 20px;
+}
+
+.alert {
+  margin-top: 20px;
+}
+
+.form-group {
+  margin-bottom: 15px;
+}
+
+.btn-primary {
+  background-color: #9000ff;
+  color: white;
+}
+
+.btn-danger {
+  background-color: #cf2334;
+  color: white;
+}
+
+.form-control {
+  width: 100%;
+}
